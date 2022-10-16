@@ -1,0 +1,43 @@
+.genel{
+    width: 1000px;
+    
+    display: block;
+    margin: 30px auto 0 auto;
+}
+img{
+    display: block;
+    margin: 30px auto 0 auto;
+}
+.search-box{
+    text-align: center;
+    background-color: darkgrey;
+    padding: 4px;
+}
+button{
+    margin-top: 3px;
+    padding: 3px;
+}
+.kutu1{
+ 
+ width: 39%;
+ 
+}
+.kutu2{
+
+width: 20%;
+}
+.kutu3{
+
+width: 40%;
+
+}
+.kutuu{
+    display: block;
+    float: left;
+    height: 100px;
+    text-align: center;
+    margin-right: 3px;
+    margin-top: 3px;
+    background-color: aqua;
+    padding-top: 10px;
+}
